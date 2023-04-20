@@ -17,7 +17,7 @@ MonoBehaviour:
     serializedVersion: 2
     Hash: 00000000000000000000000000000000
   m_OptimizeCatalogSize: 0
-  m_BuildRemoteCatalog: 0
+  m_BuildRemoteCatalog: 1
   m_BundleLocalCatalog: 0
   m_CatalogRequestsTimeout: 0
   m_DisableCatalogUpdateOnStart: 0
@@ -61,9 +61,9 @@ MonoBehaviour:
       - m_Id: 6c0b5a29b4ce44851be1aeb6ad92273b
         m_Value: '{UnityEngine.AddressableAssets.Addressables.RuntimePath}/[BuildTarget]'
       - m_Id: 7e9331687ed094ae79be0b38f6863d92
-        m_Value: /Volumes/VAD/ITPlus/GU0122E_Addressable/Assets/DATA
+        m_Value: /Volumes/VAD/ITPlus/GU0122E_Addressable/Assets/Data/levels
       - m_Id: f42b6e74c3b164c0d9a69d9e532b60ae
-        m_Value: /Volumes/VAD/ITPlus/GU0122E_Addressable/Assets/DATA
+        m_Value: https://github.com/nhathuy7996/AddressableDemoUnity/blob/master/Assets/DATA/levels/438c70cbd8fca358f58d9d21757a3481_unitybuiltinshaders_97152cea272dbb1d2a523574026c7b0f.bundle
     m_ProfileEntryNames:
     - m_Id: 56989ec55c1584a17bace4bc6bde5dbf
       m_Name: BuildTarget
